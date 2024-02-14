@@ -1,0 +1,21 @@
+LIST OF DELIVERED ORDERS
+
+======================================================
+Customer Id : 102
+Customer Name: Windah Wijaya
+Customer Address :Jasin
+Customer number : 0134545565
+Customer Order : Nasi Lemak
+Amount of Nasi Lemak ordered:2
+Payment : 5.00
+Order Status : Delivered
+======================================================
+Customer Id : 105
+Customer Name: Idham Ismail
+Customer Address :Jasin
+Customer number : 0135467899
+Customer Order : Cheng Chong Fun
+Amount of Cheng Chong Fun ordered:2
+Payment : 10.00
+Order Status : Delivered
+======================================================
